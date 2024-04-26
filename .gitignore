@@ -169,6 +169,7 @@ dist
 .pnp.*
 
 # IntelliJ based IDEs
+bun.lockb
 .idea
 
 # Finder (MacOS) folder config

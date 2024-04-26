@@ -1,5 +1,8 @@
 {
   "name": "shaderdemo",
+  "scripts": {
+    "build": "npx vite build"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

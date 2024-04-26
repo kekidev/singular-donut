@@ -1,0 +1,15 @@
+{
+  "name": "shaderdemo",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/three": "^0.163.0",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.12.5",
+    "three": "^0.164.0"
+  }
+}
